@@ -1,0 +1,11 @@
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\bin\Debug\netcoreapp2.2\Lab 14 bill inheritance.deps.json
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\bin\Debug\netcoreapp2.2\Lab 14 bill inheritance.runtimeconfig.json
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\bin\Debug\netcoreapp2.2\Lab 14 bill inheritance.runtimeconfig.dev.json
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\bin\Debug\netcoreapp2.2\Lab 14 bill inheritance.dll
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\bin\Debug\netcoreapp2.2\Lab 14 bill inheritance.pdb
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.csprojAssemblyReference.cache
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.csproj.CoreCompileInputs.cache
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.AssemblyInfoInputs.cache
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.AssemblyInfo.cs
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.dll
+C:\Users\myers\source\repos\Week four tutorials, labs, capstone, and assessments\Lab 14 bill inheritance\Lab 14 bill inheritance\obj\Debug\netcoreapp2.2\Lab 14 bill inheritance.pdb
